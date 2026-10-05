@@ -1,0 +1,96 @@
+---
+title: "E-Commerce Sales & Customer Intelligence Dashboard"
+author: "Mohammad Qasim"
+date: "2026-10-05"
+output: pdf_document
+---
+\newpage
+
+# E-Commerce Business Intelligence Dashboard as a real portfolio project.
+
+We’ll do it in stages:
+
+\begin{enumerate}
+
+\item{Define the business problem and requirements}
+\item{Create the e-commerce dataset/database}
+\item{Load data into MySQL}
+\item{Perform advanced SQL analysis}
+\item{Clean/transform data with Power Query}
+\item{Build a proper Star Schema}
+\item{Create DAX measures}
+\item{Build the Power BI dashboard}
+\item{Extract business insights and recommendations}
+\end{enumerate}
+
+## Business scenario
+Me as a Data Analyst for an e-commerce company and
+the management team wants answers to questions such as:
+\begin{itemize}
+\item{How much revenue are we generating?}
+\item{Which products and categories perform best?}
+\item{Which customers generate the most revenue?}
+\item{Which regions are performing well?}
+\item{Are sales increasing or decreasing?}
+\item{What is our profit margin?}
+\item{What is the average order value?}
+\item{How many customers are returning?}
+\item{Which products have poor profitability?}
+\item{How is performance changing month-over-month?}
+\end{itemize}
+
+## Our technology stack
+We'll deliberately use the technologies you want to strengthen:
+                  
+So by the end, I will be able to say
+`I built an end-to-end BI solution starting from relational data in MySQL, performed advanced SQL analysis, transformed the data using Power Query, created a star-schema model, developed DAX measures, and built an interactive Power BI dashboard.`
+
+## Business requirements
+ his is an important part that most student Power BI projects skip.
+
+We'll create a small Business Requirements Document.
+
+*Stakeholders*
+
+*E-Commerce Management*
+
+### Business objective:
+ Develop an interactive business intelligence dashboard that enables management to monitor sales, profitability, customer behavior and product performance.
+ 
+## Key business questions:
+
+\begin{itemize}
+\item{Sales}
+\begin{enumerate}
+\item{What is total revenue?}
+\item{What is total profit?}
+\item{What is the monthly sales trend?}
+\item{What is the month-over-month growth?}
+\end{enumerate}
+
+\item{Customers}
+\begin{enumerate}
+\item{Who are our highest-value customers?}
+\item{What percentage of customers are returning?}
+\item{Which customer segments generate the most revenue?}
+\end{enumerate}
+
+\item{Products}
+\begin{enumerate}
+\item{Which products generate the most revenue?}
+\item{Which products generate the most profit?}
+\item{Which categories have poor margins?}
+\end{enumerate}
+
+\item{Geography}
+\begin{enumerate}
+\item{Which regions generate the most revenue?}
+\item{Which stores perform best?}
+\end{enumerate}
+
+\item{Management}
+\begin{enumerate}
+\item{What are our key KPIs?}
+\item{Where are the biggest opportunities for improvement?}
+\end{enumerate}
+\end{itemize}
