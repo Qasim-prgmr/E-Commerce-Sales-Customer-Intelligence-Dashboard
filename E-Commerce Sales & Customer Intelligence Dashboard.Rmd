@@ -1,5 +1,5 @@
 ---
-title: "E-Commerce Sales & Customer Intelligence Dashboard"
+title: "E-Commerce Sales and Customer Intelligence Dashboard"
 author: "Mohammad Qasim"
 date: "2026-10-05"
 output: pdf_document
@@ -43,7 +43,7 @@ the management team wants answers to questions such as:
 We'll deliberately use the technologies you want to strengthen:
                   
 So by the end, I will be able to say
-`I built an end-to-end BI solution starting from relational data in MySQL, performed advanced SQL analysis, transformed the data using Power Query, created a star-schema model, developed DAX measures, and built an interactive Power BI dashboard.`
+`I built an end-to-end BI solution starting from relational data in MySQL, performed advanced SQL analysis, transformed the data using Power Query, created a star-schema model, developed DAX measures and built an interactive Power BI dashboard.`
 
 ## Business requirements
  his is an important part that most student Power BI projects skip.
