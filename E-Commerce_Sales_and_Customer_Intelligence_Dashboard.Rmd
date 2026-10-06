@@ -158,7 +158,7 @@ I Should Required:
 I already have MySQL, Power BI, Python and R, so we're going to make those skills demonstrable through the project rather than just listing them.
 
 # Results:
-
+Here are some results by SQL analytics.
 ##  Sales
 
 **Q: What is total revenue?**
